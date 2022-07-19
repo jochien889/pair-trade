@@ -1,6 +1,0 @@
-1 選取兩個有Cointegration的交易對
-
-方法一
-用Pa對Pb跑回歸 ==> Pa = beta Pa + alpha + error
-對殘差進行zscore 當 Z-score > 1 or Z-score < -1 進場 Z-score回到0出場
-結論 
